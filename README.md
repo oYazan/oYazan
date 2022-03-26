@@ -90,8 +90,4 @@
 
 <br/>
 
-## Contact me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
-<p align="center">
-Maybe soon?
-</p>
+## Thank you @AkramLZ :)
