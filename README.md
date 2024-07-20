@@ -1,11 +1,5 @@
-
 <h1 align="center">Hello, I'm Yazan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=4D28A1&background=FFFFFF00&center=true&vCenter=true&multiline=true&height=110&lines=Minecraft+Java+Plugins+Developer;Training+with+ID2R+Studio;Java+Developer"></a>
-</p>
-
-<hr/>
 <h5 align="center">A 19 years old Computer Systems Engineering Student.</h4>
 <br>
 <p align="center"> 
