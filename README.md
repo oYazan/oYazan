@@ -15,7 +15,7 @@
 
 <p align="center"> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="#"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
