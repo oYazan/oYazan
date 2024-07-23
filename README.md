@@ -47,9 +47,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-19C9C8.svg?style=plastic&&logo=kali-linux&logoColor=blue" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-%234c8df5.svg?style=plastic&&logo=arch-linux&logoColor=white" /></a> 
+    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-000101.svg?style=plastic&&logo=kali-linux&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Debian-%234c8df5.svg?style=plastic&&logo=debian&logoColor=red" /></a> 
 
