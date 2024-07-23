@@ -26,8 +26,6 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%235586A4.svg?style=plastic&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Drone CI" src="https://img.shields.io/badge/Drone%20CI-%235e5aff.svg?style=plastic&logo=drone&logoColor=white"></a>
 </p>
   
  ### 👉 IDEs
