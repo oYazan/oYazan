@@ -23,16 +23,12 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%235586A4.svg?style=plastic&logo=mysql&logoColor=white"></a>
 </p>
   
  ### 👉 IDEs
  
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23ffffff.svg?style=plastic&logo=intellij-idea&logoColor=black" /></a>
 </p>
