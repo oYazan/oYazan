@@ -3,11 +3,11 @@
 <h5 align="center">A 19 years old Computer Systems Engineering Student.</h4>
 <br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=iSryMan&label=Profile%20views&color=0e75b6&style=plastic" alt="iSryMan" /> 
+	<img src="https://komarev.com/ghpvc/?username=oyazan&label=Profile%20views&color=0e75b6&style=plastic" alt="oyazan" /> 
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iSryMan&theme=algolia" alt="iSryMan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oyazan&theme=algolia" alt="oyazan" /></p>
 
 ## 🛠️ My Skills
 
@@ -68,17 +68,17 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="iSryMan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iSryMan&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oyazan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oyazan&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iSryMan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="iSryMan" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oyazan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="oyazan" height="192px"/>
   <br/>
   </p>
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/iSryMan"><img alt="iSryMan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iSryMan&custom_title=iSryMan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/oyazan"><img alt="oyazan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oyazan&custom_title=oyazan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
