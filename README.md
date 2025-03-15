@@ -61,7 +61,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oYazan&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-
 <br/>  
 
 <br />
