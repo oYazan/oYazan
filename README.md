@@ -53,5 +53,5 @@
 
 
 ## Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oYazan&theme=algolia" alt="oYazan" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=oYazan&theme=algolia)](https://git.io/streak-stats)
 <br/>
