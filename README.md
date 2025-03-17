@@ -53,16 +53,6 @@
 
 
 ## Github Stats  
-<td valign="top" width="50%">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oYazan&theme=algolia" alt="oYazan" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=oYazan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oYazan&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-<br/>  
-
-<br />
-
-----
+<br/>
