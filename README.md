@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on nothing
   
 
-- 🌱 I’m currently learning Data Analysis  
+- 🌱 I’m currently learning Algorithms  
   
 
 - ⚡ Fun fact: I use arch btw  
