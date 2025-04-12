@@ -16,7 +16,7 @@
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently solving (LeetCode Problems)[https://github.com/oYazan/LeetCodeProblems]
   
 
 - 🌱 I’m currently learning Algorithms  
