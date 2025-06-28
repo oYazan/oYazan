@@ -13,7 +13,7 @@
 <br/>  
 
 ## Rapidfire  
-- 🔭 I’m currently working on GSG - GameJam(Private)  
+- 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning Algorithms  
 - ⚡ Fun fact: I use arch btw  
 
