@@ -31,6 +31,8 @@
 <a href="https://unity.com/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Unity.svg" alt="Unity" height="35" /></a>  
 <a href="https://www.w3.org/standards/xml/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/png-shadow-512/XML.png" alt="XML" height="35" /></a>  
 <a href="https://www.sql.org/" target="_blank"><img style="margin: 3px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="35" /></a>  
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png" alt="PowerShell" height="35" /></a>  
+<a href="https://www.zsh.org/" target="_blank"><img style="margin: 3px" src="https://github.com/Zsh-art/logo/blob/main/png/white_vertical_icon.png?raw=true" alt="Zsh" height="35" /></a>  
 </div>
 
 ### IDEs & Editors  
@@ -63,11 +65,13 @@
 
 ### Security Tools  
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 8px; margin-bottom: 10px;">
-<a href="https://www.metasploit.com/" target="_blank"><img style="margin: 3px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Metasploit_logo_and_wordmark.svg/960px-Metasploit_logo_and_wordmark.svg.png?20241002042656" alt="Metasploit" height="35" /></a>  
+<a href="https://www.metasploit.com/" target="_blank"><img style="margin: 3px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Metasploit_logo_and_wordmark.svg/960px-Metasploit_logo_and_wordmark.svg.png" alt="Metasploit" height="35" /></a>  
 <a href="https://nmap.org/" target="_blank"><img style="margin: 3px" src="https://nmap.org/images/sitelogo-nmap.svg" alt="Nmap" height="35" /></a>  
 <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 3px" src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="35" /></a>  
 <a href="https://github.com/OJ/gobuster" target="_blank"><img style="margin: 3px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/OWASP_black_logo.svg/960px-OWASP_black_logo.svg.png?20240720025257" alt="Gobuster" height="35" /></a>  
 <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img style="margin: 3px" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" height="35" /></a>  
+<a href="https://www.kali.org/tools/john/" target="_blank"><img style="margin: 3px" src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" height="35" /></a>  
+<a href="https://www.wireshark.org/" target="_blank"><img style="margin: 3px" src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" height="35" /></a>  
 </div>
 
 ### Operating Systems  
@@ -82,7 +86,7 @@
 
 ### Tools & Formats  
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 8px;">
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Bash.svg" alt="Bash" height="35" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="Bash" height="35" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" height="35" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" alt="Raspberry Pi" height="35" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Apache.svg" alt="XAMPP" height="35" /></a>  
