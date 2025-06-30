@@ -11,7 +11,7 @@
 
 ## Rapidfire  
 - 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Algorithms  
+- 🌱 I’m currently studying for finals  
 - ⚡ Fun fact: I use arch btw  
 
 <br/>  
