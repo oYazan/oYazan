@@ -1,8 +1,5 @@
 ## Hey 👋, I'm Yazan Shaheen!  
 
-<a href="https://github.com/oYazan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/yazan-shaheen05" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -92,7 +89,7 @@
 <a href="https://openvpn.net/" target="_blank"><img style="margin: 3px" src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" alt="OpenVPN" title="OpenVPN" height="40" /></a>  
 </div>
 
-### Tools & Formats  
+### Tools  
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 8px;">
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" title="Git" height="40" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="40" /></a>  
