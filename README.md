@@ -64,7 +64,7 @@
 <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 3px" src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" title="Wireshark" height="40" /></a>  
 </div>
 
-### Operating Systems  
+### Operating Systems & Services
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 8px; margin-bottom: 10px;">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Linux.svg" alt="Linux" title="Linux" height="40" /></a>  
 <a href="https://www.archlinux.org/" target="_blank"><img style="margin: 3px" src="https://icon.icepanel.io/Technology/svg/Arch-Linux.svg" alt="Arch Linux" title="Arch Linux" height="40" /></a>  
