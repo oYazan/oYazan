@@ -2,8 +2,8 @@
 
 ## Rapidfire  
 
-- 🔭 I’m currently working on Aman-Backend(Private)
-- 🌱 I’m currently taking AI Programming with Python and TensorFlow course  
+- 🔭 I’m currently suffering with finals
+- 🌱 I’m currently taking nothing
 - ⚡ Fun fact: I use arch & hyprland btw 
 <br/>  
 
