@@ -2,9 +2,9 @@
 
 ## Rapidfire  
 
-- 🔭 I’m currently suffering with finals
-- 🌱 I’m currently taking nothing
-- ⚡ Fun fact: I use arch & hyprland btw 
+- 🔭 I’m currently deep-diving into **Computer Organization** and **Low-Level C/C++**.
+- 🌱 Learning: **Bare-metal programming** & **PCB Design (KiCad)**.
+- - ⚡ Fun fact: I use arch & hyprland btw 
 <br/>  
 
 ## Languages and Tools  
