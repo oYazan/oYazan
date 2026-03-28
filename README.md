@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently deep-diving into **Computer Organization** and **Low-Level C/C++**.
 - 🌱 Learning: **Bare-metal programming** & **PCB Design (KiCad)**.
-- - ⚡ Fun fact: I use arch & hyprland btw 
+- ⚡ Fun fact: I use arch & hyprland btw 
 <br/>  
 
 ## Languages and Tools  
