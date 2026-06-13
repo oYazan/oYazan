@@ -3,7 +3,7 @@
 ### ⚡ Rapidfire  
 - 🔭 I’m currently deep-diving into **Computer Organization**, **Network Routing**, and **Low-Level C/C++**.
 - 🌱 Learning: **Bare-metal programming** & **PCB Design (KiCad)**.
-- ⚙️ Fun fact: I use Arch Linux & Hyprland btw (and enjoy custom kernel configs!).
+- ⚙️ Fun fact: I use Arch Linux & Hyprland btw.
 <br/>  
 
 ## 🛠️ Languages and Tools  
